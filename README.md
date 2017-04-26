@@ -1,6 +1,6 @@
 # npmdoc-node-slack
 
-#### api documentation for  [node-slack (v0.0.7)](https://github.com/xoxco/node-slack)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-slack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-slack)
+#### basic api documentation for  [node-slack (v0.0.7)](https://github.com/xoxco/node-slack)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-slack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-slack)
 
 #### Send and receive Slack Webhooks easily!
 
@@ -56,7 +56,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.7"
+    "version": "0.0.7",
+    "bin": {}
 }
 ```
 
